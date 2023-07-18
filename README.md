@@ -1,21 +1,31 @@
 ![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)
-## Hi there Folks 👋
-<h3>I am Harsh Sharma. A passionate frontend Developer.</h3>
-***
 
-- 🔭 I’m currently learning Javascript.
-- 🌱 I have worked on HTML, CSS, CPP.
-- 👯 I’m looking to collaborate on opensource.
-- 🤔 I’m looking for projects to work on.
-- 💬 Ask me about how can I solve problems of life with codin'.
-- 📫 How to reach me: Anywhere (Linkedin, Telegram, Gmail, Twitter).
-- 😄 Pronouns: Call me whatever you want. Btw name is Harsh.
-- ⚡ Fun fact: Still bachelor ☺️.
+<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devharsh007&label=Profile%20views&color=0e75b6&style=plastic" alt="devharsh007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devharsh007" alt="devharsh007" /></a> </p>
+
+- 🔭 I’m currently working on **Javascript**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👯 I’m looking to collaborate on **Frontend Projects**
+
+- 💬 Ask me about **HTML, CSS, JS, CPP**
+
+- 📫 How to reach me **hs707803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/denver_kekw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denver_kekw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhisekkumarsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek kumar singh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abhisekkumarsingh021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisekkumarsingh021" height="30" width="40" /></a>
-<a href="https://instagram.com/denver_d_deniver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denver_d_deniver" height="30" width="40" /></a>
+<a href="https://codepen.io/devharsh007-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devharsh007-the-solid" height="30" width="40" /></a>
+<a href="https://twitter.com/harshsh81867967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshsh81867967" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devharsh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devharsh001" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/devharsh_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devharsh_007/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hs707803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hs707803" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devharsh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devharsh007" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
