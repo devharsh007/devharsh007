@@ -1,4 +1,3 @@
-![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate FrontEnd Developer from India</h3>
 
