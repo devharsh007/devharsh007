@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **hs707803@gmail.com**
 
+- Please check my [Stars](https://github.com/devharsh007?tab=stars)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devharsh007-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devharsh007-the-solid" height="30" width="40" /></a>
